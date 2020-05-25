@@ -17,9 +17,9 @@ ul, nav{
 
 a{
 	text-decoration: none;
-	color: #3B0B17;
+	color:#86B404;
 	cursor: pointer;
-
+	font-size: 23px;
 	opacity:  0.9;
 }
 
@@ -100,6 +100,7 @@ header h2{
 
 header nav{
 	display:  flex;
+
 }
 
 header nav li{
@@ -111,7 +112,7 @@ header nav li:first-child{
 }
 
 header nav li:last-child{
-	margin-left: :  0;	
+	margin-left:   0;	
 }
 
 
