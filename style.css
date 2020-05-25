@@ -18,6 +18,7 @@ ul, nav{
 a{
 	text-decoration: none;
 	color:#86B404;
+	
 	cursor: pointer;
 	font-size: 23px;
 	opacity:  0.9;
